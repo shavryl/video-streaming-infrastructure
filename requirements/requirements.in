@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+ujson
+aiopg
+sqlalchemy
+pydantic[dotenv]
+alembic
+python-dotenv
